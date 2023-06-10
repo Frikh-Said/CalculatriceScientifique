@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculatriceScientifique</string>
+    <string name="scroll_view_description" />
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+    <string name="next" />
+    <string name="lorem_ipsum" />
+    <string name="previous" />
+</resources>
