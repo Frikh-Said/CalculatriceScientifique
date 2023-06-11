@@ -3,8 +3,8 @@
 
 "Scientific Calculator is an Android application developed using Java and Android Studio. It provides a comprehensive set of mathematical functions, including addition, subtraction, multiplication, division, square, factorial, cosine, sine, tangent. The calculator also features a history section that displays the ten most recent operations."
 
-<img src="https://github.com/Daaouan-Mohammed/CalculatriceScientifique/assets/116027598/0ef73566-6d35-403c-8025-2cba7841cf6a" alt="Screenshot 1" width="200" height="400" />
-<img src="https://github.com/Daaouan-Mohammed/CalculatriceScientifique/assets/116027598/d06aea1d-bd84-4896-b0d9-b42be59814d5" alt="Screenshot 2" width="200" height="400" />
+<img src="https://github.com/Daaouan-Mohammed/CalculatriceScientifique/assets/116027598/042ca3cb-0172-4965-b7db-26fc48b9040f" alt="Screenshot 1" width="200" height="400" />
+<img src="https://github.com/Daaouan-Mohammed/CalculatriceScientifique/assets/116027598/452143de-08d7-43d2-869a-ef8c047febbc" alt="Screenshot 2" width="200" height="400" />
 
 
 ## Features

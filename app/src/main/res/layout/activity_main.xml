@@ -28,7 +28,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="5dp"
         android:layout_marginLeft="-125dp"
-        android:text="Historique"
+        android:text="History"
         android:textColor="#8A2BE2"
         android:textSize="20sp"
         app:cornerRadius="36dp"></com.google.android.material.button.MaterialButton>
