@@ -6,4 +6,5 @@
     <string name="next" />
     <string name="lorem_ipsum" />
     <string name="previous" />
+    <string name="title_activity_main" />
 </resources>
